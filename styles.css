@@ -11,3 +11,44 @@ body{
   max-height: 200px;
   background-color: rgba(165, 165, 165, 0.534);
 }
+
+#eng1{
+  background-color: rgb(255, 178, 78);
+}
+
+#eng2{
+  background-color: rgb(255, 178, 78);
+}
+
+#eng3{
+  background-color: rgb(255, 178, 78);
+}
+
+#pt1{
+  background-color: rgb(54, 255, 97);
+}
+
+#pt2{
+  background-color: rgb(54, 255, 97);
+}
+
+#pt3{
+  background-color: rgb(54, 255, 97);
+}
+
+#ue1{
+  background-color: rgb(85, 88, 255);
+}
+
+#ue2{
+  background-color: rgb(85, 88, 255);
+}
+
+#ue3{
+  background-color: rgb(85, 88, 255); 
+}
+
+#overall{
+  background-color: rgb(251, 255, 0);
+}
+
